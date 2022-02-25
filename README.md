@@ -1,5 +1,3 @@
-# Code Refactor Starter Code
-
 # Project: Refactor of current production website for Horiseon company
 
 ## Purpose:
